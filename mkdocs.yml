@@ -65,3 +65,18 @@ nav:
   - Home:
     - index.md
     - 合唱团简介: intro.md
+  - 技巧指导:
+    - 演唱技巧:
+      - technique/index.md
+    - 排练指导:
+      - rehearsal/index.md
+  - 歌曲指导:
+    - song/index.md
+  - 演出视频:
+    - video/index.md
+  - 花絮:
+    - extra/index.md
+  - 资源:
+    - resource/index.md
+  - 团史(?):
+    - history/index.md
